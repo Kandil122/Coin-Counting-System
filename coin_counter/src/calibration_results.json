@@ -1,0 +1,16 @@
+{
+  "EGP_1": {
+    "radius": 49,
+    "h": 27,
+    "s": 1,
+    "v": 213,
+    "bimetallic_ratio": 0.0
+  },
+  "EGP_0.50": {
+    "radius": 60,
+    "h": 35,
+    "s": 8,
+    "v": 212,
+    "bimetallic_ratio": 0.0
+  }
+}
