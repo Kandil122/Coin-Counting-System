@@ -41,10 +41,10 @@ Coin-Counting-System/
 ├── live_detection.py          # Real-time camera-based detection
 │
 └── EGP Coin Dataset/
-    ├── batch1/                # Training/testing images (Batch 1)
-    ├── batch2/                # Training/testing images (Batch 2)
-    ├── batch3/                # Training/testing images (Batch 3)
-    └── batch4/                # Training/testing images (Batch 4)
+    ├── batch1/                # small noises images (Batch 1)
+    ├── batch2/                # more noises and lightening noises images (Batch 2)
+    ├── batch3/                # obstacles and part of coins (Batch 3)
+    └── batch4/                # very dark background (Batch 4)
 ```
 
 ---
